@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kunjbhatia23@gmail.com**
 
-- 📄 Official Resume https://drive.google.com/file/d/1uCJzlOPUOcQUwHWyoR65Y2hbAvaoWj_h/view?usp=sharing
+- 📄 Official Resume https://drive.google.com/file/d/1g0iZ9gVS0D18gKqQd1IaX-5z0mnCAFRN/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
