@@ -78,7 +78,7 @@
 ---
 
 <h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
+<p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunjbhatia23&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="kunjbhatia23's github stats" />
   &nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjbhatia23&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="kunjbhatia23's top languages" />
