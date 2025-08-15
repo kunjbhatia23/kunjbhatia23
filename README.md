@@ -40,12 +40,12 @@
   <tr align="center">
     <td>
       <a href="https://github.com/kunjbhatia23/Budget_Guru">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunjbhatia23&repo=your-repo-name-one&theme=tokyonight&hide_border=true&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunjbhatia23&repo=Budget_Guru&theme=tokyonight&hide_border=true&show_icons=true" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kunjbhatia23/test-case-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunjbhatia23&repo=your-repo-name-two&theme=tokyonight&hide_border=true&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunjbhatia23&repo=test-case-generator&theme=tokyonight&hide_border=true&show_icons=true" />
       </a>
     </td>
   </tr>
